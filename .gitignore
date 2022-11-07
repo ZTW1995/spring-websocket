@@ -1,0 +1,6 @@
+/.idea/
+/target/
+*/target/
+*.iml
+*.pfx
+**/config/bear-*
